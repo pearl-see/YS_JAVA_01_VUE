@@ -1,6 +1,7 @@
 {
   "name": "vuepoject",
   "version": "0.1.0",
+  "homepage": "https://pearl-see.github.io/YS_JAVA_01_VUE/",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
